@@ -7,3 +7,5 @@ To run this
 * Install node.js
 * It should need no dependencies (v0.0.1)
 * Run 'node cmd.js'
+
+[Scrappy diagram](diagram.png)
