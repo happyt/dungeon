@@ -2,7 +2,7 @@
 
 ## Quick start
 
-To run this
+To run this app
 
 * Install node.js
 * It should need no dependencies (v0.0.1)
