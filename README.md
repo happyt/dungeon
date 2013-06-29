@@ -3,6 +3,7 @@
 ## Quick start
 
 This was an app created to explore a hack evening idea of a dungeon maze. It's very simple, unfinished and just has simple N,S,E,W commands to move around rooms. 
+
 To run this app
 
 * Install node.js
