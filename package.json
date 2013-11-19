@@ -1,0 +1,12 @@
+{
+"name": "dungeon",
+"version": "0.0.2",
+"description": "Simple cli dungeon",
+"main": "cmd.js",
+"dependencies": {
+    "readline": "0.0.3"
+},
+"author": "IanM",
+"license": "BSD",
+"private": true
+}
