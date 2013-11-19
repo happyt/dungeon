@@ -7,7 +7,7 @@ This was an app created to explore a hack evening idea of a dungeon maze. It's v
 To run this app
 
 * Install node.js
-* It should need no dependencies (v0.0.1)
+* It uses an early version of readline, later versions don't have the same facilities
 * Run 'node cmd.js'
 
 [Scrappy diagram](diagram.png)
