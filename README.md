@@ -13,4 +13,4 @@ To run this app
 * 'npm install'
 * Run 'node cmd.js'
 
-[Scrappy diagram](diagram.png)  - my test map
+[Scrappy diagram](diagram.png)  - my test map, quite brief
