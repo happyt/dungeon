@@ -1,5 +1,5 @@
 /*
-  Dungeon data
+  Dungeon data, structure of each room and its contents
  */
     var rooms = {
         "rooms":[
